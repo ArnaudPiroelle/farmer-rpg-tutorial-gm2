@@ -1,12 +1,14 @@
 {
   "resources": [
     {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"order":1,},
+    {"id":{"name":"spr_tile_terrain","path":"sprites/spr_tile_terrain/spr_tile_terrain.yy",},"order":5,},
     {"id":{"name":"spr_hair_female_ponytail_raven","path":"sprites/spr_hair_female_ponytail_raven/spr_hair_female_ponytail_raven.yy",},"order":3,},
     {"id":{"name":"camera","path":"objects/camera/camera.yy",},"order":5,},
     {"id":{"name":"spr_base_female_5","path":"sprites/spr_base_female_5/spr_base_female_5.yy",},"order":4,},
     {"id":{"name":"spr_legs_female_pants_magenta","path":"sprites/spr_legs_female_pants_magenta/spr_legs_female_pants_magenta.yy",},"order":0,},
     {"id":{"name":"spr_hair_male_messy_raven","path":"sprites/spr_hair_male_messy_raven/spr_hair_male_messy_raven.yy",},"order":1,},
     {"id":{"name":"spr_base_female_1","path":"sprites/spr_base_female_1/spr_base_female_1.yy",},"order":0,},
+    {"id":{"name":"tile_terrain","path":"tilesets/tile_terrain/tile_terrain.yy",},"order":0,},
     {"id":{"name":"spr_base_female_3","path":"sprites/spr_base_female_3/spr_base_female_3.yy",},"order":2,},
     {"id":{"name":"spr_hair_female_pixie_blonde","path":"sprites/spr_hair_female_pixie_blonde/spr_hair_female_pixie_blonde.yy",},"order":2,},
     {"id":{"name":"spr_base_female_2","path":"sprites/spr_base_female_2/spr_base_female_2.yy",},"order":1,},
@@ -19,7 +21,9 @@
     {"id":{"name":"spr_base_male_5","path":"sprites/spr_base_male_5/spr_base_male_5.yy",},"order":9,},
     {"id":{"name":"spr_legs_male_pants_green","path":"sprites/spr_legs_male_pants_green/spr_legs_male_pants_green.yy",},"order":2,},
     {"id":{"name":"spr_collision","path":"sprites/spr_collision/spr_collision.yy",},"order":1,},
+    {"id":{"name":"spr_tile_cottage","path":"sprites/spr_tile_cottage/spr_tile_cottage.yy",},"order":6,},
     {"id":{"name":"spr_hair_male_bedhead_pink","path":"sprites/spr_hair_male_bedhead_pink/spr_hair_male_bedhead_pink.yy",},"order":0,},
+    {"id":{"name":"tile_cottage","path":"tilesets/tile_cottage/tile_cottage.yy",},"order":1,},
     {"id":{"name":"obj_silvio","path":"objects/obj_silvio/obj_silvio.yy",},"order":2,},
     {"id":{"name":"spr_feet_female_longboots_brown","path":"sprites/spr_feet_female_longboots_brown/spr_feet_female_longboots_brown.yy",},"order":0,},
     {"id":{"name":"spr_torso_female_sleeveless_white","path":"sprites/spr_torso_female_sleeveless_white/spr_torso_female_sleeveless_white.yy",},"order":1,},
@@ -34,7 +38,6 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_base_male_2","path":"sprites/spr_base_male_2/spr_base_male_2.yy",},"order":6,},
     {"id":{"name":"obj_olena","path":"objects/obj_olena/obj_olena.yy",},"order":3,},
-    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":4,},
     {"id":{"name":"rm_0","path":"rooms/rm_0/rm_0.yy",},"order":0,},
   ],
   "Options": [
