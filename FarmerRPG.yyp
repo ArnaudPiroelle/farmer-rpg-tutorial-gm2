@@ -1,8 +1,10 @@
 {
   "resources": [
-    {"id":{"name":"sprite0","path":"sprites/sprite0/sprite0.yy",},"order":0,},
-    {"id":{"name":"object0","path":"objects/object0/object0.yy",},"order":0,},
-    {"id":{"name":"room0","path":"rooms/room0/room0.yy",},"order":0,},
+    {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"order":1,},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"spr_collision","path":"sprites/spr_collision/spr_collision.yy",},"order":1,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"rm_0","path":"rooms/rm_0/rm_0.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -16,7 +18,7 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"room0","path":"rooms/room0/room0.yy",},
+    {"name":"rm_0","path":"rooms/rm_0/rm_0.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
