@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"order":1,},
     {"id":{"name":"spr_hair_female_ponytail_raven","path":"sprites/spr_hair_female_ponytail_raven/spr_hair_female_ponytail_raven.yy",},"order":3,},
+    {"id":{"name":"camera","path":"objects/camera/camera.yy",},"order":5,},
     {"id":{"name":"spr_base_female_5","path":"sprites/spr_base_female_5/spr_base_female_5.yy",},"order":4,},
     {"id":{"name":"spr_legs_female_pants_magenta","path":"sprites/spr_legs_female_pants_magenta/spr_legs_female_pants_magenta.yy",},"order":0,},
     {"id":{"name":"spr_hair_male_messy_raven","path":"sprites/spr_hair_male_messy_raven/spr_hair_male_messy_raven.yy",},"order":1,},
