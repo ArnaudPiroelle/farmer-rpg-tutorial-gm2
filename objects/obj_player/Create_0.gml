@@ -9,6 +9,7 @@ y_frame = 10;
 x_offset = sprite_get_xoffset(mask_index);
 y_offset = sprite_get_yoffset(mask_index);
 
+spr_shadow = spr_character_shadow
 spr_base = spr_base_female_5
 spr_feet = spr_feet_female_boots_black
 spr_legs = spr_legs_female_pants_teal

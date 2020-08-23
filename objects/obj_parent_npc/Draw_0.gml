@@ -11,13 +11,6 @@ else x_frame = 0;
 var xx = x - x_offset;
 var yy = y - y_offset;
 
-// Increment frame for animation
-if(x_frame + (anim_speed / 60) < anim_length){
-	x_frame += anim_speed / 60;
-} else {
-	x_frame = 1;
-}
-
 // Draw character shadow
 if(spr_shadow != -1){
 	draw_sprite(spr_shadow, 0, x, y)
@@ -47,4 +40,9 @@ if(spr_hair != -1){
 	draw_sprite_part(spr_hair, 0, floor(x_frame) * frame_size, y_frame * frame_size, frame_size, frame_size, xx, yy);
 }
 
-//draw_rectangle_color(bbox_left, bbox_top, bbox_right, bbox_bottom, c_yellow,  c_yellow,  c_yellow,  c_yellow, true);
+// Increment frame for animation
+if(x_frame < anim_length -1){
+	x_frame += anim_speed / 60;
+} else {
+	x_frame = 1;
+}

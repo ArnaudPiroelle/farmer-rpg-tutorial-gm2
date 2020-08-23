@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"329004d4-d7ab-438d-bcb1-f8bcbb788dcd","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Tiles Sprites",
+    "path": "folders/Sprites/Tiles Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_tile_terrain",
